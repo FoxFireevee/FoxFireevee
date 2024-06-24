@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello! My name is Hailey Murphy, and I am a Software Engineer. As I continued down my path as an artist I quickly realized the power to be held in the coding world. Not to mention how vital it can be in so many aspects of life. Taking everyday to learn and grow my knowledge and experience.
+
+- 🌱 I’m currently learning completing BloomTech's Full Stack Web Dev program and gain as much knowledge as possible in HTML, CSS, and JavaScript.
+- 👯 I’m looking to collaborate on multiple projects with my boyfriend to further my career such as restaurant websites, idle website games, and other various side projects.
+- - 📫 How to reach me:
+  -   Email: foxfireevee@gmail.com
+- ⚡ Fun fact: Being an ODC riddled Dungeon Master, I look forward to making something where I can create my worlds for my players to interact with actively in game sessions. 
 
 <!--
 **FoxFireevee/FoxFireevee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
